@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor BackEnd em projetos pessoais.
-- 🌱 Estuando framework node.js
+- 🌱 Atualmente estudando node.js
 
 
 ## ⚡ Technologies
