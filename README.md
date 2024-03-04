@@ -1,6 +1,9 @@
-### Olá! Me chamo Samuel Oliveira 👋
+### Helo! I am Samuel Oliveira 👋
+================================================================================================================================================================
 
-
+* 🌍  I'm based in Picos - PI
+* ✉️  You can contact me at [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
+* 🧠  I'm learning to develop skills to work with JavaScript, HTML and CSS.
 - 🔭 Desenvolvedor BackEnd em projetos pessoais.
 - 🌱 Atualmente estudando node.js
 
