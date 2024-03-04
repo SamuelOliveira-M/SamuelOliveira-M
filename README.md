@@ -3,9 +3,11 @@
 * 🌍  I'm located in Picos, Piauí
 * ✉️  You can contact me at [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
 * 🧠  I am continuously enhancing my skills in patience and dedication, which are fundamental to my everyday life
-- 🔭 Desenvolvedor BackEnd em projetos pessoais.
-- 🌱 Atualmente estudando node.js
+* 🌱  Currently, I am seeking knowledge in Node.js, exploring integrations with AI.
 
+## ⭐ Experience
+
+I am currently enrolled in the Analysis and Systems Development program at IFPI and actively engaged with the School of Software Factory [MAMBEE](https://www.instagram.com/mambeeifpi/). I am involved in an extension project affiliated with the Federal Institute of Piauí, where we simulate the environment of software development companies. This experience has provided me with valuable immersion into the practical aspects of my education.
 
 ## ⚡ Technologies
 
