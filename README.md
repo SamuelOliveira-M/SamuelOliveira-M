@@ -1,9 +1,9 @@
 ### Helo! I am Samuel Oliveira 👋
 ================================================================================================================================================================
 
-* 🌍  I'm based in Picos - PI
+* 🌍  I'm located in Picos, Piauí."
 * ✉️  You can contact me at [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
-* 🧠  I'm learning to develop skills to work with JavaScript, HTML and CSS.
+* 🧠  I'm constantly refining my skills in patience, dedication, and critical thinking, as I believe these competencies are the ones I utilize the most in my daily life..
 - 🔭 Desenvolvedor BackEnd em projetos pessoais.
 - 🌱 Atualmente estudando node.js
 
