@@ -1,4 +1,4 @@
-### Helo! I am Samuel Oliveira 👋
+## Helo! I am Samuel Oliveira
 
 * 🌍  I'm located in Picos, Piauí
 * ✉️  You can contact me at [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
