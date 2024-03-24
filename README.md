@@ -29,4 +29,4 @@ These are some of the technologies and tools that I work with:
 <a href="https://github.com/SamuelOliveira-M/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveira-M&layout=compact&show_icons=true&langs_count=8&card_width=320" />
 </a>
-<a href="http://www.github.com/SamuelOliveira-M"><img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelOliveira-M&layout=compact&show_icons=true&langs_count=8&card_width=320"" /></a>
+<a href="http://www.github.com/SamuelOliveira-M/convoychat"><img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelOliveira-M&layout=compact&show_icons=true&langs_count=8&card_width=320"" /></a>
