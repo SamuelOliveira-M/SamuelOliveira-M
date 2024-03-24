@@ -8,7 +8,8 @@
 ## ⭐ Experience
 
 I am currently enrolled in the Analysis and Systems Development program at IFPI and actively engaged with the School of Software Factory [MAMBEE](https://www.instagram.com/mambeeifpi/). I am involved in an extension project affiliated with the Federal Institute of Piauí, where we simulate the environment of software development companies. This experience has provided me with valuable immersion into the practical aspects of my education.
-* SEMG.Edu [SEMG.Edu](https://semg-edu-next-js.vercel.app/dashboard)
+* [SEMG.Edu](https://semg-edu-next-js.vercel.app/dashboard)
+* [NEABI](neabiifpi.netlify.app/)
 
 ## ⚡ Technologies
 
