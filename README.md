@@ -25,9 +25,9 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-##![image](https://github.com/SamuelOliveira-M/SamuelOliveira-M/assets/113384073/5c0110d8-87ec-4f52-a79f-8408024b9386) My GitHub Stats:</b>
+## 📊 My GitHub Stats:</b>
 <a href="https://github.com/SamuelOliveira-M/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelOliveira-M&show_icons=true&theme=synthwave" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelOliveira-M&show_icons=true" />
 </a>
 <a href="https://github.com/SamuelOliveira-M/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveira-M&layout=compact&show_icons=true&theme=synthwave&langs_count=8&card_width=320" />
