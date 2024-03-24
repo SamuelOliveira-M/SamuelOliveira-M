@@ -1,9 +1,9 @@
 ## Helo! I am Samuel Oliveira
 
-* 🌍  I'm located in Picos, Piauí
-* ✉️  You can contact me at [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
-* 🧠  I am continuously enhancing my skills in patience and dedication, which are fundamental to my everyday life
-* 🌱  Currently, I am seeking knowledge in Node.js, exploring integrations with AI.
+* I'm located in Picos, Piauí
+* You can contact me at [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
+* I am continuously enhancing my skills in patience and dedication, which are fundamental to my everyday life
+* Currently, I am seeking knowledge in Node.js, exploring integrations with AI.
 
 ## ⭐ Experience
 
@@ -26,9 +26,6 @@ These are some of the technologies and tools that I work with:
 
 
 ## 📊 My GitHub Stats:</b>
-<a href="https://github.com/SamuelOliveira-M/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelOliveira-M&show_icons=true" />
-</a>
 <a href="https://github.com/SamuelOliveira-M/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveira-M&layout=compact&show_icons=true&theme=synthwave&langs_count=8&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveira-M&layout=compact&show_icons=true&langs_count=8&card_width=320" />
 </a>
