@@ -23,6 +23,8 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 <a href="https://github.com/SamuelOliveira-M/convoychat" style="background-color: #007bff; display: inline-block; padding: 10px;">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveira-M&layout=compact&show_icons=true&langs_count=8&card_width=320" />
 </a>
