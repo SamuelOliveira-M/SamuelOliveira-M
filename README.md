@@ -21,8 +21,8 @@ These are some of the technologies and tools that I work with:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 !<a href="https://github.com/SamuelOliveira-M/convoychat" style="background-color: #007bff; padding: 10px;">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveira-M&layout=compact&show_icons=true&langs_count=8&card_width=320" />
 </a>
