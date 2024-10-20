@@ -5,7 +5,7 @@
 * Currently, I am seeking knowledge in Node.js, exploring integrations with AI.
 
 ## You can contact me at
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-lauro-cardoso-da-silva-monteiro-983577216)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-354a7921a/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel098tr@gmail.com)
 ## ⭐ Experience
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **IFPI** e participo ativamente da Escola de Fábrica de Software **MAMBEE**. Também trabalhei como **freelancer** na **Live University**, uma empresa que atua no setor educacional online. Minha atuação incluiu a implementação de interfaces, integração entre front-end e back-end, além de validação de campos e consumo de procedimentos do banco de dados. Esse conhecimento me possibilitou entender as necessidades desse mercado e aplicar soluções tecnológicas que otimizam o processo educacional.
