@@ -13,7 +13,8 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **IFPI*
 
 Na **MAMBEE**, desenvolvi o **SEMG.edu**, que foi apresentado em vários eventos, sendo destaque no **MINFO**, a **Mostra de Inovações do IFPI**, onde recebeu reconhecimento por sua contribuição no campo da tecnologia educacional. Esse projeto, com foco na transformação digital no ensino, demonstra meu compromisso em integrar tecnologia e educação.
 
-**[SEMG.Edu](https://semg-edu-next.vercel.app/login)** **[Live University](https://liveuniversity.com/)**
+* **[SEMG.Edu](https://semg-edu-next.vercel.app/login)** 
+* **[Live University](https://liveuniversity.com/)**
 
 
 ## ⚡ Technologies
