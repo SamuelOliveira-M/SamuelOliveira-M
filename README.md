@@ -5,11 +5,16 @@
 * I am continuously enhancing my skills in patience and dedication, which are fundamental to my everyday life
 * Currently, I am seeking knowledge in Node.js, exploring integrations with AI.
 
+## You can contact me at
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-lauro-cardoso-da-silva-monteiro-983577216)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel098tr@gmail.com)
 ## ⭐ Experience
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **IFPI** e participo ativamente da Escola de Fábrica de Software **MAMBEE**. Também trabalhei como **freelancer** na **Live University**, uma empresa que atua no setor educacional online. Minha atuação incluiu a implementação de interfaces, integração entre front-end e back-end, além de validação de campos e consumo de procedimentos do banco de dados. Esse conhecimento me possibilitou entender as necessidades desse mercado e aplicar soluções tecnológicas que otimizam o processo educacional.
 
-I am currently enrolled in the Analysis and Systems Development program at IFPI and actively engaged with the School of Software Factory [MAMBEE](https://www.instagram.com/mambeeifpi/). I am involved in an extension project affiliated with the Federal Institute of Piauí, where we simulate the environment of software development companies. This experience has provided me with valuable immersion into the practical aspects of my education.
-* [SEMG.Edu](https://semg-edu-next.vercel.app/login)
-* [NEABI](https://neabiifpi.netlify.app/) 
+Na **MAMBEE**, desenvolvi o **SEMG.edu**, que foi apresentado em vários eventos, sendo destaque no **MINFO**, a **Mostra de Inovações do IFPI**, onde recebeu reconhecimento por sua contribuição no campo da tecnologia educacional. Esse projeto, com foco na transformação digital no ensino, demonstra meu compromisso em integrar tecnologia e educação.
+
+**[SEMG.Edu](https://semg-edu-next.vercel.app/login)** **[Live University](https://liveuniversity.com/)**
+
 
 ## ⚡ Technologies
 
@@ -23,6 +28,4 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
- - <a href="https://github.com/SamuelOliveira-M/convoychat" style="background-color: #007bff; padding: 10px;">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveira-M&layout=compact&show_icons=true&langs_count=8&card_width=320" />
-</a>
+
