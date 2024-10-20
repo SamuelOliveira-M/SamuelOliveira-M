@@ -1,7 +1,6 @@
 ## Helo! I am Samuel Oliveira
 
 * I'm located in Picos, Piauí
-* You can contact me at [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
 * I am continuously enhancing my skills in patience and dedication, which are fundamental to my everyday life
 * Currently, I am seeking knowledge in Node.js, exploring integrations with AI.
 
