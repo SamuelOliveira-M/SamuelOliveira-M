@@ -30,7 +30,7 @@ Desenvolvo aplicações web, APIs e integrações entre sistemas, com experiênc
 
 Sistema de gestão escolar que desenvolvi no ambiente da Fábrica Escola de Software MAMBEE/IFPI. Foi utilizado por uma escola com aproximadamente **200 alunos e 20 professores**, apoiando matrículas, formação de turmas, avaliações e emissão de documentos.
 
-**Minha contribuição:** backend, modelagem de dados, APIs REST, autenticação JWT, permissões por perfil e integração das aplicações de professores e secretaria com o mesmo backend.
+**Minha contribuição:** backend, modelagem de dados, APIs REST, emissão de tokens JWT e integração das aplicações de professores e secretaria com o mesmo backend. A aplicação dos controles de autorização no servidor faz parte das melhorias técnicas identificadas na auditoria.
 
 **Stack:** Node.js, Express, TypeScript, Prisma ORM e PostgreSQL, com organização MVC e casos de uso.
 
