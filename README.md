@@ -1,6 +1,6 @@
 # Samuel Oliveira
 
-**Desenvolvedor Backend e Full Stack | Node.js · TypeScript · PostgreSQL · APIs REST**
+**Desenvolvedor Backend Node.js/TypeScript | APIs REST · PostgreSQL · Prisma ORM**
 
 Desenvolvo aplicações web, APIs e integrações entre sistemas, com experiência em soluções educacionais e automação de processos. Busco oportunidades remotas em desenvolvimento backend e full stack.
 
@@ -8,9 +8,10 @@ Desenvolvo aplicações web, APIs e integrações entre sistemas, com experiênc
 
 ## Sobre mim
 
+- Técnico em **Informática pelo IFPI**, com conclusão em 2021.
 - Graduado em **Análise e Desenvolvimento de Sistemas pelo IFPI**, com conclusão em 2025.
 - Especialista em **Educação Digital e Inovação Pedagógica na Educação Básica pela UFMS**, com conclusão em junho de 2026 e carga horária de 360 horas.
-- Experiência como **Desenvolvedor Full Stack (PJ) na Live University**, de agosto de 2023 a abril de 2025, com aplicações web, APIs, regras de negócio acadêmicas, vouchers, descontos e PostgreSQL.
+- Experiência como **Desenvolvedor Full Stack (PJ) na Live University**, de agosto de 2023 a abril de 2025, com aplicações web, APIs, correção de bugs, validação de vouchers promocionais, funções e triggers em PostgreSQL e evolução de interfaces a partir do Figma.
 - Atuação como **Coordenador Geral de TI na Secretaria de Educação de Geminiano (PI)**, com administração de sistemas educacionais, implantação de soluções e suporte a usuários.
 - Localizado em **Picos, Piauí, Brasil**.
 
@@ -33,13 +34,15 @@ Sistema de gestão escolar que desenvolvi no ambiente da Fábrica Escola de Soft
 
 **Stack:** Node.js, Express, TypeScript, Prisma ORM e PostgreSQL, com organização MVC e casos de uso.
 
+**Status:** projeto histórico, atualmente sem uso pela escola. Os testes originais foram manuais; não apresento o sistema como integralmente coberto por testes automatizados.
+
 [API / Backend](https://github.com/SamuelOliveira-M/SEMG-Edu-Backend) · [Aplicação web](https://github.com/SamuelOliveira-M/semg.edu-nextJS) · [Área dos professores](https://github.com/SamuelOliveira-M/Semg.edu-TeacherView)
 
 ### FrontNotas / CollabPad — Notas colaborativas
 
 Projeto desenvolvido em equipe na MAMBEE/IFPI para colaboração em notas em tempo real.
 
-**Minha contribuição:** funcionalidade de busca e indexação com Elasticsearch, no contexto de uma aplicação com Node.js, React e TypeScript.
+**Minha contribuição individual:** implementação da busca de notas utilizando Elasticsearch. O projeto é colaborativo; as demais funcionalidades pertencem ao trabalho da equipe.
 
 [Repositório do FrontNotas](https://github.com/SamuelOliveira-M/FrontNotas)
 
