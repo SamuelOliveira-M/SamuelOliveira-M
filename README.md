@@ -1,31 +1,58 @@
-## Helo! I am Samuel Oliveira
+# Samuel Oliveira
 
-* I'm located in Picos, Piauí
-* I am continuously enhancing my skills in patience and dedication, which are fundamental to my everyday life
-* Currently, I am seeking knowledge in Node.js, exploring integrations with AI.
+**Desenvolvedor Backend e Full Stack | Node.js · TypeScript · PostgreSQL · APIs REST**
 
-## You can contact me at
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-354a7921a/)
-[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel098tr@gmail.com)
-## ⭐ Experience
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **IFPI** e participo ativamente da Escola de Fábrica de Software **MAMBEE**. Também trabalhei como **freelancer** na **Live University**, uma empresa que atua no setor educacional online. Minha atuação incluiu a implementação de interfaces, integração entre front-end e back-end, além de validação de campos e consumo de procedimentos do banco de dados. Esse conhecimento me possibilitou entender as necessidades desse mercado e aplicar soluções tecnológicas que otimizam o processo educacional.
+Desenvolvo aplicações web, APIs e integrações entre sistemas, com experiência em soluções educacionais e automação de processos. Busco oportunidades remotas em desenvolvimento backend e full stack.
 
-Na **MAMBEE**, desenvolvi o **SEMG.edu**, que foi apresentado em vários eventos, sendo destaque no **MINFO**, a **Mostra de Inovações do IFPI**, onde recebeu reconhecimento por sua contribuição no campo da tecnologia educacional. Esse projeto, com foco na transformação digital no ensino, demonstra meu compromisso em integrar tecnologia e educação.
+[LinkedIn](https://www.linkedin.com/in/samuel-oliveira-m/) · [Portfólio](https://samueloliveira-m.github.io/portifolio/) · [E-mail](mailto:samuel098tr@gmail.com)
 
-* **[SEMG.Edu](https://semg-edu-next.vercel.app/login)** 
-* **[Live University](https://liveuniversity.com/)**
+## Sobre mim
 
+- Graduado em **Análise e Desenvolvimento de Sistemas pelo IFPI**, com conclusão em 2025.
+- Especialista em **Educação Digital e Inovação Pedagógica na Educação Básica pela UFMS**, com conclusão em junho de 2026 e carga horária de 360 horas.
+- Experiência como **Desenvolvedor Full Stack (PJ) na Live University**, de agosto de 2023 a abril de 2025, com aplicações web, APIs, regras de negócio acadêmicas, vouchers, descontos e PostgreSQL.
+- Atuação como **Coordenador Geral de TI na Secretaria de Educação de Geminiano (PI)**, com administração de sistemas educacionais, implantação de soluções e suporte a usuários.
+- Localizado em **Picos, Piauí, Brasil**.
 
-## ⚡ Technologies
+## Tecnologias e ferramentas
 
-These are some of the technologies and tools that I work with:
+| Área | Tecnologias |
+| --- | --- |
+| Backend e APIs | Node.js, Express, JavaScript, TypeScript, APIs REST, autenticação JWT |
+| Dados | PostgreSQL, SQL, Prisma ORM; conhecimentos básicos em Elasticsearch |
+| Frontend | React, Next.js, HTML e CSS |
+| Desenvolvimento e operação | Git, GitHub, Bitbucket, SSH, PM2, Render, Vercel, Supabase e Firebase Storage |
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## Projetos em destaque
 
+### SEMG.edu — Gestão escolar
+
+Sistema de gestão escolar que desenvolvi no ambiente da Fábrica Escola de Software MAMBEE/IFPI. Foi utilizado por uma escola com aproximadamente **200 alunos e 20 professores**, apoiando matrículas, formação de turmas, avaliações e emissão de documentos.
+
+**Minha contribuição:** backend, modelagem de dados, APIs REST, autenticação JWT, permissões por perfil e integração das aplicações de professores e secretaria com o mesmo backend.
+
+**Stack:** Node.js, Express, TypeScript, Prisma ORM e PostgreSQL, com organização MVC e casos de uso.
+
+[API / Backend](https://github.com/SamuelOliveira-M/SEMG-Edu-Backend) · [Aplicação web](https://github.com/SamuelOliveira-M/semg.edu-nextJS) · [Área dos professores](https://github.com/SamuelOliveira-M/Semg.edu-TeacherView)
+
+### FrontNotas / CollabPad — Notas colaborativas
+
+Projeto desenvolvido em equipe na MAMBEE/IFPI para colaboração em notas em tempo real.
+
+**Minha contribuição:** funcionalidade de busca e indexação com Elasticsearch, no contexto de uma aplicação com Node.js, React e TypeScript.
+
+[Repositório do FrontNotas](https://github.com/SamuelOliveira-M/FrontNotas)
+
+## Experiência prática
+
+Na **Live University**, trabalhei na evolução de funcionalidades web e APIs, integração entre frontend, backend e serviços externos, correção de regras de negócio, consultas e funções em PostgreSQL, dashboards e área de cursos. Também utilizei Git/Bitbucket e apoiei a operação das aplicações via SSH e PM2.
+
+Minha experiência com sistemas educacionais aproxima o desenvolvimento das necessidades de gestores, professores e equipes administrativas.
+
+## Contato
+
+Estou aberto a conversar sobre oportunidades em **Backend Node.js/TypeScript** e **Full Stack**.
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-oliveira-m/)
+- [Portfólio](https://samueloliveira-m.github.io/portifolio/)
+- [samuel098tr@gmail.com](mailto:samuel098tr@gmail.com)
